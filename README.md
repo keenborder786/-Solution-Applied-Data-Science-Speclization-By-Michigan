@@ -10,4 +10,4 @@ This is my code which include solution for assignments of Applied Data Science S
 
 Assignments for each of the course are actual hands on data science projects which helped me to test my skills in real-like situation and some projects are actually subjective(course 2 projects) which require individual creative thinking.
 
-Please refer to desired folder name for specific course solution. Moreover, I have included optional assignments and lecture code for better reference and help.
+Please refer to desired folder name for specific course solution. Moreover, I have included optional assignments and lecture code for better reference and guidance.
